@@ -4,6 +4,7 @@
 The Face Recognition Attendance System is a Python-based project that uses computer vision to automatically mark attendance using facial recognition.
 It saves time ⏱️, reduces manual effort 💪, and prevents proxy attendance 🚫✍️.
 
+
 🛠️ Technologies Used
 
  Python
@@ -15,14 +16,16 @@ It saves time ⏱️, reduces manual effort 💪, and prevents proxy attendance 
  LBPH Face Recognizer
 
  NumPy
+ 
 
-  How It Works
+ ⚙️ How It Works
 
  Create Dataset – Captures face images using a webcam
 
  Train Model – Trains the system using collected images
 
  Recognize Face – Detects and recognizes faces to mark attendance
+ 
 
  📁 Project Files
 
@@ -35,6 +38,7 @@ It saves time ⏱️, reduces manual effort 💪, and prevents proxy attendance 
  haarcascade_frontalface_default.xml – Face detection model
 
  requirements.txt – Required dependencies
+ 
 
 ▶️ How to Run
 
@@ -42,6 +46,7 @@ pip install -r requirements.txt
 python create_dataset.py
 python trainer.py
 python recognizer.py
+
 
 ✨ Features
 
@@ -53,9 +58,11 @@ python recognizer.py
 
  User-friendly system
 
+
  🔒 Note
 
 Dataset images and trained model files are generated locally and are not uploaded to GitHub for privacy & security reasons.
+
 
 👨‍💻 Author
 
