@@ -16,6 +16,18 @@ It saves time ⏱️, reduces manual effort 💪, and prevents proxy attendance 
  LBPH Face Recognizer
 
  NumPy
+
+
+ ### 🔗 Installation & Setup
+
+Follow these steps to run the project locally:
+
+git clone https://github.com/AtharvaGawande14/Face-Recognition-Attendance-System.git
+cd Face-Recognition-Attendance-System
+pip install -r requirements.txt
+python create_dataset.py
+python trainer.py
+python recognizer.py
  
 
  ### ⚙️ How It Works
