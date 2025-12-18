@@ -5,7 +5,7 @@ The Face Recognition Attendance System is a Python-based project that uses compu
 It saves time ⏱️, reduces manual effort 💪, and prevents proxy attendance 🚫✍️.
 
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
 
  Python
 
