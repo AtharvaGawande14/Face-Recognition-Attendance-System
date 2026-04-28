@@ -5,7 +5,7 @@ The Face Recognition Attendance System is a Python-based project that uses compu
 It saves time , reduces manual effort , and prevents proxy attendance .
 
 
-###  Technologies Used
+### ● Technologies Used
 
  Python
 
@@ -18,7 +18,7 @@ It saves time , reduces manual effort , and prevents proxy attendance .
  NumPy
 
 
- ###  Installation & Setup
+ ### ● Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -34,7 +34,7 @@ python trainer.py
 python recognizer.py
  
 
- ###  How It Works
+ ### ● How It Works
 
  Create Dataset – Captures face images using a webcam
 
@@ -43,7 +43,7 @@ python recognizer.py
  Recognize Face – Detects and recognizes faces to mark attendance
  
 
- ###  Project Files
+ ### ● Project Files
 
  create_dataset.py – Collects face samples
 
@@ -56,7 +56,7 @@ python recognizer.py
  requirements.txt – Required dependencies
  
 
-###  How to Run
+### ● How to Run
 
 pip install -r requirements.txt
 python create_dataset.py
@@ -64,7 +64,7 @@ python trainer.py
 python recognizer.py
 
 
-###  Features
+### ● Features
 
  Automatic attendance marking
 
@@ -75,11 +75,11 @@ python recognizer.py
  User-friendly system
 
 
- ###  Note
+ ### ● Note
 
 Dataset images and trained model files are generated locally and are not uploaded to GitHub for privacy & security reasons.
 
 
-###  Author
+### ● Author
 
 Atharva Gawande 
